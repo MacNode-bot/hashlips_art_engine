@@ -1,0 +1,11 @@
+
+
+- svg support for high lvl graphics
+
+- high dimensions support: 1k, 2k, 4k, 8k, ....
+
+- parameters specify to different scales. px, mm, cm, etc.
+
+
+ 
+
